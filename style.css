@@ -8,6 +8,15 @@
     justify-content: center;
 }
 
+#button2 {
+    position: fixed;
+    top: 65%;
+    right: 10.7%;
+    z-index: 9999999;
+    max-width: 50px;
+    font-size: small;
+}
+
 .container {
     display: grid;
     flex-wrap: wrap;
